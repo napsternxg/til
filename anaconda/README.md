@@ -17,3 +17,13 @@ conda install --revision 0
 ```
 conda env export -n <env_name> -f <env_name>-env.yml
 ```
+
+
+# Uninstalling Anaconda completely
+
+* https://docs.anaconda.com/anaconda/install/uninstall/
+
+```
+conda install anaconda-clean
+anaconda-clean
+```
