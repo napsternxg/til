@@ -6,4 +6,4 @@ Taken from: https://gist.github.com/cobyism/4730490
 
 ```
 git subtree push --prefix ${folder} origin ${branch}
-``
+```
