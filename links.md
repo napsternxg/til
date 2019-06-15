@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Random Links
-has_children: true
+parent: TIL
 permalink: /links
 ---
 
