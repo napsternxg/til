@@ -1,3 +1,11 @@
+---
+layout: default
+title: Git
+has_children: true
+permalink: /git
+---
+
+
 # Push folder to specific branch on remote
 
 Useful for pushing folder to gh-pages.

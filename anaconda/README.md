@@ -1,3 +1,10 @@
+---
+layout: default
+title: Anaconda
+has_children: true
+permalink: /anaconda
+---
+
 # Cleanup conda base environment
 
 Source: https://stackoverflow.com/questions/52830307/conda-remove-all-installed-packages-from-base-root-environment

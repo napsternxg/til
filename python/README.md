@@ -1,3 +1,10 @@
+---
+layout: default
+title: Python
+has_children: true
+permalink: /python
+---
+
 # Interactive notebook based pages
 
 * Use `nbinteract` to create web pages which run python code and ipywidgets using binder. 

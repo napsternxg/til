@@ -1,3 +1,9 @@
+---
+layout: default
+title: TIL
+nav_order: 1
+---
+
 # til
 
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Programming
+has_children: true
+permalink: /programming
+---
+
 # Resources about programming
 
 ## Books

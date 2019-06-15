@@ -1,3 +1,11 @@
+---
+layout: default
+title: Data Analysis
+has_children: true
+permalink: /data-analysis
+---
+
+
 ## Libear algebra for co-occurence counts
 
 If A is `(n*m)` binary matrix with m columns depicting presence in category and n rows as the number of items. 

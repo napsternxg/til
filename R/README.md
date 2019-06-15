@@ -1,3 +1,10 @@
+---
+layout: default
+title: R
+has_children: true
+permalink: /r
+---
+
 # Poster using R markdown
 
 * https://github.com/brentthorne/posterdown

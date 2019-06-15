@@ -1,3 +1,10 @@
+---
+layout: default
+title: Visualization
+has_children: true
+permalink: /visualization
+---
+
 # Gestalt principles - Sum > parts
 
 * https://medium.com/@Elijah_Meeks/gestalt-principles-for-data-visualization-59f18f20bd40

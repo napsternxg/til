@@ -1,3 +1,11 @@
+---
+layout: default
+title: Random Links
+has_children: true
+permalink: /links
+---
+
+
 # Random links I found online and want to share
 
 * [Credible web](https://credweb.org/signals-20181021/#h.94xsck7qz3ho)
