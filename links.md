@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Random Links
-parent: TIL
 permalink: /links
 ---
 

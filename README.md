@@ -1,8 +1,6 @@
 ---
 layout: default
 title: TIL
-nav_order: 1
-has_children: true
 permalink: /
 ---
 
@@ -10,7 +8,6 @@ permalink: /
 
 
 Today I learnt style resources for various topics. 
-
+Navigation on right
 Theme: https://github.com/pmarsceill/just-the-docs
-
 
