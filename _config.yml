@@ -1,8 +1,2 @@
-theme: pmarsceill/just-the-docs
-# Enable or disable the site search
-search_enabled: true
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-44393164-1
-plugins:
-  - jekyll-sitemap
+remote_theme: pmarsceill/just-the-docs
+
