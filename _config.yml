@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-search_enabled: true	
+search_enabled: true
+markdown: CommonMarkGhPages
 # Google Analytics Tracking (optional)	
 # e.g, UA-1234567-89	
 ga_tracking: UA-44393164-1	
