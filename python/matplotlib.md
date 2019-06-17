@@ -5,7 +5,9 @@ parent: Python
 permalink: /python/plotting
 ---
 
-# Fix legend in matplotlib after making the plot
+# Matplotlib
+
+## Fix legend in matplotlib after making the plot
 
 Sources: 
 * https://stackoverflow.com/questions/35200094/change-size-alpha-of-markers-in-the-legend-box-of-matplotlib/35200637
