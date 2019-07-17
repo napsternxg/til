@@ -14,3 +14,9 @@ permalink: /python
 
 * Seaborn style plotly plots with Dash support
   - https://medium.com/@plotlygraphs/introducing-plotly-express-808df010143d
+
+
+# API creation
+
+* FastAPI for API creation. 
+  - https://fastapi.tiangolo.com/python-types/
