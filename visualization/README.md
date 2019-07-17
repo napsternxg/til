@@ -17,6 +17,10 @@ permalink: /visualization
 * [Five Models for Making Sense of Complex Systems](https://medium.com/@cwodtke/five-models-for-making-sense-of-complex-systems-134be897b6b3)
 * [Twitter thread by Julia Evans on examples of system diagrams](https://twitter.com/b0rk/status/1139888221029109761)
 
+# Colors
+
+* [Color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
+
 
 # Libraries
 * [Paper.js](http://paperjs.org/) - Manipulate vector graphics like Adobe illustrator using JS
