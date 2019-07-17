@@ -10,6 +10,10 @@ permalink: /python
 * Use `nbinteract` to create web pages which run python code and ipywidgets using binder. 
   - https://www.nbinteract.com/tutorial/tutorial_monty_hall.html
   
+# Jupyter Notebook
+
+* HTML output in Jupyter notebooks: http://matthewrocklin.com/blog/2019/07/04/html-repr
+  
 # Plotly Express
 
 * Seaborn style plotly plots with Dash support
