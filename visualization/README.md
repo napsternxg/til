@@ -10,6 +10,9 @@ permalink: /visualization
 * https://medium.com/@Elijah_Meeks/gestalt-principles-for-data-visualization-59f18f20bd40
 * https://onedrive.live.com/view.aspx?resid=801B6337B938EA5B!382&ithint=file%2cpptx&authkey=!ABQGKR2T22k7RbI
 
+# Animating data viz
+* https://medium.com/@urban_institute/4-observations-on-animating-your-data-visualizations-cf987b069c35
+
 # Concept maps
 
 * [What are Synthesis Maps and Gigamaps?](https://slab.ocadu.ca/project/synthesis-maps-gigamaps)
