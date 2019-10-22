@@ -24,3 +24,6 @@ permalink: /python
 
 * FastAPI for API creation. 
   - https://fastapi.tiangolo.com/python-types/
+  
+# Misc.
+* pydantic for validating JSON data - https://pydantic-docs.helpmanual.io
