@@ -5,6 +5,9 @@ has_children: true
 permalink: /python
 ---
 
+# Stdlib
+* Import python modules from a file - https://stackoverflow.com/questions/436198/what-is-an-alternative-to-execfile-in-python-3/24261031#24261031
+
 # Interactive notebook based pages
 
 * Use `nbinteract` to create web pages which run python code and ipywidgets using binder. 
