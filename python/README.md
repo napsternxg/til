@@ -30,3 +30,4 @@ permalink: /python
   
 # Misc.
 * pydantic for validating JSON data - https://pydantic-docs.helpmanual.io
+* Toytree - Canvas tree visualization using python (super cool graphics) - https://toytree.readthedocs.io/en/latest/Cookbook.html
