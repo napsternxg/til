@@ -29,3 +29,8 @@ permalink: /visualization
 * [Paper.js](http://paperjs.org/) - Manipulate vector graphics like Adobe illustrator using JS
 * [processingjs](http://processingjs.org/) - Processing in Javascript
 * [p5.js](https://p5js.org) - JS port of processing
+
+
+# Free image / graphics
+
+* [Noun Project - Free CC By icons](https://thenounproject.com/)
