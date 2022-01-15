@@ -37,3 +37,6 @@ const pipe = (...ops) => ops.reduce(_pipe)
 * Javascript tutorial via elevator design game - http://play.elevatorsaga.com/ 
   - Taken from - https://github.com/michelpereira/awesome-gamesofcoding
 * Modern JS tutorial - https://javascript.info/
+* IndexedDB - https://dexie.org/
+* You can access SQLlite db files using javascript without any server - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+* WebGazer.js do gaze tracking in JS - https://webgazer.cs.brown.edu/
