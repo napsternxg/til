@@ -36,3 +36,9 @@ permalink: /python
 # Misc.
 * pydantic for validating JSON data - https://pydantic-docs.helpmanual.io
 * Toytree - Canvas tree visualization using python (super cool graphics) - https://toytree.readthedocs.io/en/latest/Cookbook.html
+* Overriding instance level functions in python: https://stackoverflow.com/a/42154067
+```python
+import types
+def new_some_fn(self, *args, **kwargs):
+  pass
+obj.some_fn = types.MethodType(new_some_fn, obj)```
