@@ -42,3 +42,14 @@ import types
 def new_some_fn(self, *args, **kwargs):
   pass
 obj.some_fn = types.MethodType(new_some_fn, obj)```
+
+* Get version of a package (even those which don't have __version__):
+```python
+# python > 3.8
+from importlib.metadata import version
+version('pandas')
+
+# python < 3.8
+import pkg_resources
+pkg_resources.get_distribution('pandas').version
+```
