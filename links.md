@@ -30,3 +30,5 @@ permalink: /links
 * https://www.researchgate.net/publication/227988510_Automatic_Keyword_Extraction_from_Individual_Documents
 * https://languagenet.github.io/ 
 * https://www.sciencedirect.com/science/article/pii/S0164121216301030?via%3Dihub - A survey on feature drift adaptation: Definition, benchmark, challenges and future directions
+* https://github.com/openai/openai-cookbook/blob/main/examples/Unit_test_writing_using_a_multi-step_prompt.ipynb - Multi Step Prompting via OpenAI
+* https://www.danhock.co/p/the-new-problems-every-marketplace - The New Problems Every Marketplace Faces After Product Market Fit
