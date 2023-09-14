@@ -32,3 +32,6 @@ permalink: /links
 * https://www.sciencedirect.com/science/article/pii/S0164121216301030?via%3Dihub - A survey on feature drift adaptation: Definition, benchmark, challenges and future directions
 * https://github.com/openai/openai-cookbook/blob/main/examples/Unit_test_writing_using_a_multi-step_prompt.ipynb - Multi Step Prompting via OpenAI
 * https://www.danhock.co/p/the-new-problems-every-marketplace - The New Problems Every Marketplace Faces After Product Market Fit
+* https://designingyour.life/ - Designing Your Life
+* https://dora.dev/ - DevOps Research and Assessment (DORA)
+* https://future.com/north-star-metrics/ - North Start Metrics in business
