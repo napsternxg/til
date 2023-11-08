@@ -33,3 +33,4 @@ Good survey
 
 # Tools
 - [pymoo: Multi-objective Optimization in Python](https://pymoo.org/index.html)
+- [ligpg_query: C library for accessing the PostgreSQL parser outside of the server. Returns the SQL parse tree.](https://github.com/pganalyze/libpg_query)
